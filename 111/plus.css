@@ -1,0 +1,13 @@
+.img-fluid {
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	border: 2px solid green;
+}
+body {
+	background-image: url('1/4.png');
+}
+.footer {
+	height: 150px; 
+	background-image: url('4.png');
+}
