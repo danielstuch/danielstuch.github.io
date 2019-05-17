@@ -1,0 +1,25 @@
+.img-fluid {
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+	border: 2px ;
+}
+footer {
+	background-color: #d2d6d8;
+}
+body {
+	background-image: url(https://image.dhgate.com/0x0s/f2-albu-g4-M00-60-BF-rBVaEVgQY0mAaxlPAAQQCFo0VQs993.jpg/realtree-1-52x30m-4-98x98ft.jpg);
+}
+.col-lg-12 {
+	background-color: #d9e0dc;
+	border: 2px solid yellow;
+}
+.nav-item{
+	background: #c0c4c0;
+}
+
+.nav-item .bb{
+	background-color:#62d662; 
+
+}
+

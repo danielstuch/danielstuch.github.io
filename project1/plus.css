@@ -1,0 +1,12 @@
+.img-fluid {
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	border: 2px solid green; 
+}
+.fab {
+	margin-left: 20px;
+}
+.img-betta{
+	position: absolute;
+}
